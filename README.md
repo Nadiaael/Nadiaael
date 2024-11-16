@@ -5,15 +5,15 @@
 
 🌱 About Me
 
-🎓 Current Role: AI Engineering Student
+🎓 **Current Role**: AI Engineering Student
 
-🤖 Passionate About: AI and its practical applications in various fields
+🤖 **Passionate About**: AI and its practical applications in various fields
 
-🌍 Hobbies & Curiosity: Learning and exploring new areas that intersect with AI—whether it’s in technology, healthcare, education, or creative arts
+🌍 **Hobbies & Curiosity**: Learning and exploring new areas that intersect with AI—whether it’s in technology, healthcare, education, or creative arts
 
-🚀 Goal: To leverage AI in meaningful ways that make a positive impact across disciplines
+🚀 **Goal**: To leverage AI in meaningful ways that make a positive impact across disciplines
 
-💼 Skills & Interests
+💼 **Skills & Interests**:
 
 -AI & Machine Learning: Proficient in data analysis, machine learning models, and AI frameworks
 
